@@ -8,3 +8,6 @@
  *
  * Consider organizing styles into separate files for maintainability.
  */
+.jumbotron-answer {
+  border-left: 6px solid rgb(209 158 6);
+}
